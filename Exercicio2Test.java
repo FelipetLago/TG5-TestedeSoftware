@@ -7,6 +7,9 @@ import static org.junit.Assert.*;
  *
  * @author Felipe
  */
+
+//Print na WIKI
+
 public class Exercicio2Test {
     Exercicio2 notas;
     
