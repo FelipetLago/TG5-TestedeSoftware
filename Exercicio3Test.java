@@ -7,6 +7,9 @@ import static org.junit.Assert.*;
  *
  * @author Felipe
  */
+
+//Print na WIKI
+
 public class Exercicio3Test {
     Exercicio3 idadeRenova;
     
